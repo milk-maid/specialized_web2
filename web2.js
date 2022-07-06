@@ -1,6 +1,8 @@
 
     document.write("<br>");
+    
 //Ass QUESTION 2 (20marks)
+
     let dist = 500;
     let time = 10;
     let av_spee
@@ -12,6 +14,7 @@
     document.write("<br>")
 
 //Ass QUESTION 3 (5marks)
+
     //a=5;
       a=2;
     //a=6;
