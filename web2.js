@@ -1,11 +1,11 @@
 
     document.write("<br>");
-    
+
 //Ass QUESTION 2 (20marks)
 
     let dist = 500;
     let time = 10;
-    let av_spee
+    let av_speed;
     av_speed = dist / time;
     document.write(
         'The speed of the car is ' + av_speed + 'km/hr'
