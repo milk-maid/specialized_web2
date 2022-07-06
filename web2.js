@@ -48,4 +48,26 @@
     // else {
     //     document.write("no such grade")
     // }
+
+
+    //classwork solution ANOTHER STYLE
+
+    // let score = 77;
+    // switch(true){
+    //     case score >= 70:
+    //         document.write("Excellent");
+    //         break;
+    //     case score >= 60 && score <= 69:
+    //         document.write("Very Good");
+    //         break;
+    //     case score >= 50 && score <= 59:
+    //         document.write("Good");
+    //         break;
+    //     case score >= 40 && score <= 49:
+    //         document.write("Fair");
+    //         break;
+    //     case score >= 0 && score <= 39:
+    //         document.write("Fail");
+    //         break;
+    // }
                 
