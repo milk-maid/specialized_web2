@@ -9,4 +9,4 @@ All the following files are programms written during this course of study
 | Filename | Description |
 | -------- | ------------ |
 | `index.html` | the markup file that contains the main html code |
-| `web2.js` | the javascript file for other task |
+| `web2.js` | the javascript file for other task. |
